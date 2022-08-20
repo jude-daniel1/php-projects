@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#mynav .drop{
+	margin-top:15px;
+	margin-bottom: 15px;
+}
+
+#mynav .drop a{
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
+.drop a:hover{
+	text-decoration: none;
+	color:white;
+}
+
+#image{
+	background-image: url(../images/two.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 360px;
+	background-size: cover;
+}
+
+
+#mtn img{
+	
+}
